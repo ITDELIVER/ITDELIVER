@@ -1,0 +1,6 @@
+.jumbotron{
+    text-align: center;
+}
+.container{
+    transform: translateY(75%)
+}
